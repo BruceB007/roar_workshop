@@ -25,6 +25,8 @@ summary(cars)
 
 ## Including Plots
 
+Generating plots can be difficult and it can be easier to build on a basic plot such as adding labels etc. and changing colours!
+
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
