@@ -33,6 +33,10 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+## Methods
+
+These will be very detailed!
+
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ## Conclusions
